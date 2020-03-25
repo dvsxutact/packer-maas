@@ -72,4 +72,6 @@ iscsi-initiator-utils
 -a*-firmware
 # Remove Intel wireless firmware
 -i*-firmware
+# Include nano
+nano
 %end
